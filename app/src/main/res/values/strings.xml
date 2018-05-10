@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title_text">Computer Quiz</string>
+    <string name="question_one">Q1: What does PC in the realm of computers stand for?</string>
+    <string name="hint_one">PC</string>
+    <string name="question_two">Q2: What does CPU stand for?</string>
+    <string name="hint_two">CPU</string>
+    <string name="question_three">Q3: Which PC components are needed for a PC to startup (Check all that apply)?</string>
+    <string name="quest_three_check1">Motherboard</string>
+    <string name="quest_three_check2">Monitor</string>
+    <string name="quest_three_check3">Power Supply Unit</string>
+    <string name="quest_three_check4">CPU</string>
+    <string name="question_four">Q4: When would a consumer need a video card in the PC (Check all that apply)?</string>
+    <string name="quest4_check1">If they play games</string>
+    <string name="quest4_check2">For watching videos on youtube</string>
+    <string name="quest4_check3">If their work involves video editing or encoding</string>
+    <string name="quest4_check4">For using social media</string>
+    <string name="question_five">Q5: Windows is a operating system by which tech company?</string>
+    <string name="quest5_radio1">Apple</string>
+    <string name="quest5_radio2">Samsung</string>
+    <string name="quest5_radio3">Google</string>
+    <string name="quest5_radio4">Microsoft</string>
+</resources>
